@@ -41,11 +41,11 @@ const AboutSection = () => {
           </motion.h1>
           <motion.p>
             My self Darshan Ahire. I am from ghatkopar (west). I have Completed
-            my Graduation from P.V.G. College of science & Technology in 2018.
+            my Graduation from P.V.G. College of science and Technology in 2018.
           </motion.p>
           <motion.p>
             The set of skills i am familiar with are React.JS , Next.JS ,
-            Javascript & etc... , Right now i'm learning the unit Testing
+            Javascript and etc... , Right now i'm learning the unit Testing
             pattern to create more scalable application. I want to gain more
             experience on professional and corporate level cause I love what i
             do, assembling different different part of UI/UX. I personally seek

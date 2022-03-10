@@ -7,7 +7,7 @@ const ServicesSection = () => {
         <div className="top">
           <h1>SERVICE OFFERS</h1>
           <p>The following set of services</p>
-          <p>is in beast beginning signs open god you're gathering ithe</p>
+          <p>This are the services that i can provide at any time.</p>
         </div>
         <div className="bottom">
           <ServicesCard

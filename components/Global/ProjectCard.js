@@ -66,7 +66,7 @@ const ProjectCard = () => {
       {projectsData.map((project, index) => {
         const { pic, title, stacks, url, desc } = project;
         return (
-          <a href={url} key={index} target="_blank">
+          <a href={url} key={index} target="_blank" rel="noopener noreferrer">
             <motion.article
               whileHover={{
                 scale: 1.05,
