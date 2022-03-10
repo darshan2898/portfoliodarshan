@@ -79,8 +79,8 @@ const ProjectCard = () => {
               <img src={pic} alt="" />
               <h1>{title}</h1>
               <div className="tags">
-                {stacks.map((item) => {
-                  return <p>{item}</p>;
+                {stacks.map((item, index) => {
+                  return <p key={index}>{item}</p>;
                 })}
               </div>
               <div className="desc">

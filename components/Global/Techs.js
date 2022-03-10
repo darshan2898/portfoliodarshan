@@ -65,7 +65,6 @@ const Techs = () => {
       });
     }
     if (!inView) {
-      console.log(inView);
       techsAnimation.start({
         opacity: 0,
       });
