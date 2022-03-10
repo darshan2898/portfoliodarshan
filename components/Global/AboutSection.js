@@ -45,7 +45,7 @@ const AboutSection = () => {
           </motion.p>
           <motion.p>
             The set of skills i am familiar with are React.JS , Next.JS ,
-            Javascript and etc... , Right now i'm learning the unit Testing
+            Javascript and etc... , Right now i am learning the unit Testing
             pattern to create more scalable application. I want to gain more
             experience on professional and corporate level cause I love what i
             do, assembling different different part of UI/UX. I personally seek
